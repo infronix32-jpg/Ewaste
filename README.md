@@ -13,7 +13,7 @@
 - Member 2: [RANAA FATHIMA] - [College of engineering munnar]
 
 ### Hosted Project Link
-[]
+ https://infronix32-jpg.github.io/Ewaste/
 
 ### Project Description
    **EcoReclaim** is an E-Waste Management web app where users can schedule free doorstep pickups and get paid based on their e-waste type and weight. Admins can manage requests, navigate collection routes via Google Maps, and process customer payouts — all from a single dashboard.
