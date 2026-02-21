@@ -2,46 +2,40 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [E-waste management system] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [infronix]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [AYSHA DIYA T] - [College of engineering munnar]
+- Member 2: [RANAA FATHIMA] - [College of engineering munnar]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[]
 
 ### Project Description
-[2-3 lines about what your project does]
+   **EcoReclaim** is an E-Waste Management web app where users can schedule free doorstep pickups and get paid based on their e-waste type and weight. Admins can manage requests, navigate collection routes via Google Maps, and process customer payouts — all from a single dashboard.
 
 ### The Problem statement
-[What problem are you solving?]
+  Improper disposal of electronic waste causes severe environmental pollution and health hazards, while millions of households have no easy or rewarding way to recycle their old devices. **EcoReclaim** solves this by providing a simple platform where users can schedule free e-waste pickups and get paid instantly, making responsible recycling both accessible and incentivized.
 
 ### The Solution
-[How are you solving it?]
-
----
-
+  **EcoReclaim** provides a web-based platform that connects households with e-waste collectors through a simple pickup request system, offering instant payout calculations based on item type and weight. Admins manage the entire collection process — from tracking requests and navigating routes via Google Maps to processing customer payments — ensuring a seamless, eco-friendly, and financially rewarding recycling experience.
+  
 ## Technical Details
-
+  Built as a **single-file HTML application** using vanilla HTML, CSS, and JavaScript — no frameworks or backend required. It features a multi-page navigation system, real-time payout calculator, localStorage-based admin authentication, Google Maps API integration for live route navigation, and a fully responsive UI styled with CSS Grid and custom design variables.
+ 
 ### Technologies/Components Used
+  **HTML5, CSS3, and Vanilla JavaScript** for structure, styling, and logic — with **Google Fonts** (Syne & DM Sans) for typography, **Google Maps API** for live route navigation, and **localStorage** for admin authentication. No frameworks or backend required.
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: HTML5, CSS3, JavaScript
+- Frameworks used:  None (Pure Vanilla JS)
+- Libraries used:  Google Fonts (Syne & DM Sans), Google Maps Directions API
+- Tools used: VS Code, Git, Web Browser, Claude AI
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
----
 
 ## Features
 
@@ -83,13 +77,15 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2026-02-21 101749" src="https://github.com/user-attachments/assets/e7ba94bc-09df-46a4-b227-bc2f5ca23f04" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-21 101906" src="https://github.com/user-attachments/assets/8234a085-94d9-4f84-a47c-51e6a64e5b17" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Uploading Screenshot 2026-02-21 101933.png…]()
 
-![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 #### Diagrams
